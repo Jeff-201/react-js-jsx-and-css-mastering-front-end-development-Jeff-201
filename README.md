@@ -6,7 +6,7 @@ A modern **React.js** application for managing tasks and health activities, styl
 
 ## 🌐 Live Demo
 
-Check out the live application here: [](/)
+Check out the live application here: (https://react-js-jsx-and-css-mastering-fron-phi.vercel.app/))
 
 ---
 
@@ -77,7 +77,7 @@ npm run dev
 
 This app is deployed on Vercel:
 
-Sign up/log in to Vercel
+Sign up/log in to Vercel (https://react-js-jsx-and-css-mastering-fron-phi.vercel.app/)
 
 Connect your GitHub repository
 
