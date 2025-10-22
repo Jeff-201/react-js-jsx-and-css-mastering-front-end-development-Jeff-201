@@ -1,4 +1,4 @@
-# My Health App
+# 
 
 A modern **React.js** application for managing tasks and health activities, styled with **Tailwind CSS**. The app allows users to add, edit, and track tasks with status indicators (Pending, Active, Completed) and live alerts.
 
@@ -6,7 +6,7 @@ A modern **React.js** application for managing tasks and health activities, styl
 
 ## 🌐 Live Demo
 
-Check out the live application here: [My Health App](/)
+Check out the live application here: [](/)
 
 ---
 
@@ -61,7 +61,7 @@ git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mas
 
 2. Navigate to the project directory
 
-cd react-js-jsx-and-css-mastering-front-end-development-Mukangafu
+cd react-js-jsx-and-css-mastering-front-end-development-jeff-201
 
 3. Install dependencies
 
