@@ -1,70 +1,113 @@
-# React.js and Tailwind CSS Assignment
+# My Health App
 
-This assignment focuses on building a responsive React application using JSX and Tailwind CSS, implementing component architecture, state management, hooks, and API integration.
+A modern **React.js** application for managing tasks and health activities, styled with **Tailwind CSS**. The app allows users to add, edit, and track tasks with status indicators (Pending, Active, Completed) and live alerts.
 
-## Assignment Overview
+---
 
-You will:
-1. Set up a React project with Vite and Tailwind CSS
-2. Create reusable UI components
-3. Implement state management using React hooks
-4. Integrate with external APIs
-5. Style your application using Tailwind CSS
+## 🌐 Live Demo
 
-## Getting Started
+Check out the live application here: [My Health App](/)
 
-1. Accept the GitHub Classroom assignment invitation
-2. Clone your personal repository that was created by GitHub Classroom
-3. Install dependencies:
-   ```
-   npm install
-   ```
-4. Start the development server:
-   ```
-   npm run dev
-   ```
+---
 
-## Files Included
+## 📂 Repository
 
-- `Week3-Assignment.md`: Detailed assignment instructions
-- Starter files for your React application:
-  - Basic project structure
-  - Pre-configured Tailwind CSS
-  - Sample component templates
+View the source code on GitHub: [GitHub Repository](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Jeff-201.git)
 
-## Requirements
+---
 
-- Node.js (v18 or higher)
-- npm or yarn
-- Modern web browser
-- Code editor (VS Code recommended)
+## ⚡ Features
 
-## Project Structure
+- Add, edit, and delete tasks
+- Track task progress (Pending, Active, Completed)
+- Real-time alerts for task start
+- Responsive design with Tailwind CSS
+- Fully functional task manager interface
 
-```
-src/
-├── components/       # Reusable UI components
-├── pages/           # Page components
-├── hooks/           # Custom React hooks
-├── context/         # React context providers
-├── api/             # API integration functions
-├── utils/           # Utility functions
-└── App.jsx          # Main application component
-```
+---
 
-## Submission
+## 🖼️ Screenshots
 
-Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
+### Home Page
+![Home Page](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Jeff-201.git)
 
-1. Complete all required components and features
-2. Implement proper state management with hooks
-3. Integrate with at least one external API
-4. Style your application with Tailwind CSS
-5. Deploy your application and add the URL to your README.md
+### Add New Task
+![Add Task](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Jeff-201.git)
 
-## Resources
+### Task Status
+![Task Status](https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Jeff-201.git)
 
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+> Replace the image filenames with your actual uploaded screenshots in the `images` folder.
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js (v19)
+- Tailwind CSS (v3)
+- Framer Motion for animations
+- Lucide Icons
+- Vite for project bundling
+- Git & GitHub for version control
+
+---
+
+## 💻 Installation & Setup
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-Jeff-201.git
+
+2. Navigate to the project directory
+
+cd react-js-jsx-and-css-mastering-front-end-development-Mukangafu
+
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
+npm run dev
+
+**.  The app will run on http://localhost:5173 by default.**
+
+🚀 Deployment
+
+This app is deployed on Vercel:
+
+Sign up/log in to Vercel
+
+Connect your GitHub repository
+
+Vercel automatically builds and deploys the app
+
+Access the live app via: My Health App
+
+📋 Usage
+
+Click Add New Task to create a task.
+
+Set Start Time and End Time for your task.
+
+Tasks will automatically update their status (Pending → Active → Completed) based on the current time.
+
+Alerts notify you when a task starts.
+
+Edit tasks by double-clicking on them.
+
+🔧 Notes
+
+Make sure your browser allows notifications for live task alerts.
+
+The app is responsive and works on desktop, tablet, and mobile devices.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+
+**👤 Author
+
+Japheth Taboi**
